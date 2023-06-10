@@ -5,7 +5,8 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I enjoy breakdancing, playing my cello, and Muay Thai training!
 
-Contributor for:
+Contributor/Contributed for:
 - 🦊 MetaMask
-- 🔥 Vuetify
-- 📗 freeCodeCamp Dallas
+- 📗 Gov4Git
+- 🔥 Dallas Software Developers
+- 🖖 Vuetify
