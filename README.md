@@ -10,3 +10,6 @@ Contributor/Contributed for:
 - 📗 Gov4Git
 - 🔥 Dallas Software Developers
 - 🖖 Vuetify
+
+More projects I sponsor:
+- [Open Collective](https://opencollective.com/austin-akers#category-CONTRIBUTIONS)
