@@ -11,5 +11,13 @@ Contributor/Contributed for:
 - 🔥 Dallas Software Developers
 - 🖖 Vuetify
 
-More projects I sponsor:
+## More projects I sponsor:
 - [Open Collective](https://opencollective.com/austin-akers#category-CONTRIBUTIONS)
+
+## My GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/BboyAkers/github-readme-stats)
+
+## My GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BboyAkers)](https://git.io/streak-stats)
