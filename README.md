@@ -16,7 +16,7 @@ Contributor/Contributed for:
 
 ## My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/BboyAkers/github-readme-stats)
+[![BboyAkers's GitHub stats](https://github-readme-stats.vercel.app/api?username=BboyAkers)](https://github.com/BboyAkers/github-readme-stats)
 
 ## My GitHub Streak
 
