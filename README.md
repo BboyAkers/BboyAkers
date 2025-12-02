@@ -1,7 +1,7 @@
 # Hello Wonderful Person 😎 
 
-- 🌱 Always wanting to improve my TypeScript and CSS skills!
-- 👯 I’m looking to contribute to more open source projects, especially if it's frontend related. :smiley:
+- 🌱 Always improving my skills!
+- 💻 I enjoy contributing to open source projects. :smiley:
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I enjoy breaking, playing cello, and Muay Thai!
 
@@ -15,7 +15,6 @@ Contributor/Contributed for:
 - [Open Collective](https://opencollective.com/austin-akers#category-CONTRIBUTIONS)
 
 ## My GitHub Stats
-
 
 [![BboyAkers's GitHub stats](https://github-readme-stats-ochre-three-30.vercel.app/api?username=BboyAkers)](https://github.com/BboyAkers/github-readme-stats)
 
