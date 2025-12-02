@@ -1,9 +1,9 @@
 # Hello Wonderful Person 😎 
 
-- 🌱 I’m currently learning ways to improve my TypeScript and CSS skills!
-- 👯 I’m looking to contribute to more open source projects especially if it's frontend related. :smiley:
+- 🌱 Always wanting to improve my TypeScript and CSS skills!
+- 👯 I’m looking to contribute to more open source projects, especially if it's frontend related. :smiley:
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I enjoy breakdancing, playing my cello, and Muay Thai training!
+- ⚡ Fun fact: I enjoy breaking, playing cello, and Muay Thai!
 
 Contributor/Contributed for:
 - 🦊 MetaMask
@@ -16,8 +16,9 @@ Contributor/Contributed for:
 
 ## My GitHub Stats
 
+
 [![BboyAkers's GitHub stats](https://github-readme-stats.vercel.app/api?username=BboyAkers)](https://github.com/BboyAkers/github-readme-stats)
 
 ## My GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BboyAkers)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-two-psi.vercel.app/?user=BboyAkers)](https://git.io/streak-stats)
